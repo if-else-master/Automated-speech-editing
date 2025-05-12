@@ -7,7 +7,7 @@ import requests
 import re
 
 # ← 請替換為你的 Gemini API KEY
-GEMINI_API_KEY = 'AIzaSyBJKGYccKXuvl0pYeGmDesqejxdb20EFqY'
+GEMINI_API_KEY = '#####'
 
 def translate_with_gemini(text, api_key, target_lang="Japanese"):
     """
