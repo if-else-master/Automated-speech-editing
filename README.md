@@ -3,8 +3,8 @@
 
 這是一個能夠從影片中擷取投影片，進行 OCR 文字辨識和翻譯，並將翻譯好的投影片重新合成為影片的工具。
 
-![功能展示](slides_output/slide_01.jpg)
-![功能展示](ocr_output/out_01.jpg)
+<td><img src="slides_output/slide_01.jpg" width="300"></td>
+<td><img src="ocr_output/out_01.jpg" width="300"></td>
 
 ## 📝 功能特色
 
