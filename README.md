@@ -146,7 +146,7 @@ python main.py
 ## 📞 聯絡方式
 
 如果您有任何問題或建議，請在 GitHub Issues 區提出。
-
+Email：rayc57429@gmail.com
 ---
 
 ⭐ 如果這個專案對您有幫助，請給它一個星星！
